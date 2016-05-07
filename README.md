@@ -6,6 +6,9 @@ detail : [http://memcachedb.org/memcacheq/](http://memcachedb.org/memcacheq/)
 **Version**
 
 *0.2.0*     [Dockerfile](https://github.com/wupeng1988/docker-memcacheq/blob/master/Dockerfile)
+
+<br/>
+
 *latest*    [Dockerfile](https://github.com/wupeng1988/docker-memcacheq/blob/master/Dockerfile)
 
 **Usage**
